@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dicoding Submit</string>
+    <string name="heroes_name">Nama Pah</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="with_cardview">CardView</string>
+    <string name="about">About</string>
+    <string name="nama">Muhammad Nurfakhri Z</string>
+    <string name="email">indsmnz15@gmail.com</string>
+    <string name="mesin">Jenis Mesin</string>
+    <string name="speed">Kecepatan Maksimal</string>
+    <string name="lebar">Lebar Sayap</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="panjang">Panjang</string>
+</resources>
